@@ -4,7 +4,7 @@ Ein Programmierprojekt für Schülerinnen und Schüler der Mittelstufe.
 
 ## Worum geht es?
 
-Der Sitzplan-Generator hilft Lehrkräften dabei, einen Sitzplan für ihr Klassenzimmer zu erstellen. Die Anwendung verteilt Schülerinnen und Schüler automatisch auf die vorhandenen Tische - und berücksichtigt dabei Regeln, zum Beispiel dass niemand isoliert sitzen soll.
+Der Sitzplan-Generator hilft Lehrkräften dabei, einen Sitzplan für ihr Klassenzimmer zu erstellen. Die Anwendung verteilt Schülerinnen und Schüler automatisch auf die vorhandenen Tische und berücksichtigt dabei Regeln, zum Beispiel dass niemand isoliert sitzen soll.
 
 Das Projekt ist als Startercode für ein Praktikum gedacht: Die Grundstruktur steht bereits, und durch verschiedene Aufgaben wird die Anwendung Schritt für Schritt erweitert und verbessert.
 
@@ -18,7 +18,7 @@ Die Anwendung besteht aus folgenden Dateien:
 - `students.py`: Liste der Schülerinnen und Schüler
 - `constraints.py`: Regeln für die Sitzplatzvergabe und Algorithmus
 
-Die Anwendung folgt dem **MVC-Muster** (Model-View-Controller): Daten, Logik und Oberfläche sind klar voneinander getrennt. Die Implementierung ist bewusst einfach gehalten, um für die Mittelstufe angemessen zu sein.
+Die Anwendung folgt dem **MVC-Muster** (Model–View–Controller): Daten, Logik und Oberfläche sind klar voneinander getrennt. Das Projekt ist bewusst einfach gehalten, um für die Mittelstufe angemessen zu sein.
 
 ## Erweiterungen
 
