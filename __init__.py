@@ -1,0 +1,1 @@
+"""Sitzplan-Generator für Klassenzimmer."""
